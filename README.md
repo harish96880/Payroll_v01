@@ -16,6 +16,9 @@ The Payroll System is a simple console-based application designed to manage payr
 
 ## Installation
 
+### Download
+Visit the [Download](https://github.com/harish96880/Payroll_v01/) website for more information.
+
 ### Database Setup
 1. Install the provided SQL (Payroll_SQL.SQL) file in your MySQL Workbench.
 2. This file contains the necessary database schema and initial data required for the Payroll System to function properly.
