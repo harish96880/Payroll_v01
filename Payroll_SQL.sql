@@ -1,3 +1,4 @@
+create database payroll;
 use payroll;
 CREATE TABLE Employee_Details (
     Employee_id INT PRIMARY KEY,
