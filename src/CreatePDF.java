@@ -3,9 +3,9 @@ import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.*;
 
 public class CreatePDF {
-    private static final String pdfDirectory = "D:/Payroll_PDF V01/"; //Change the Pdf Directory to your location
+    private static final String pdfDirectory = "C:/Users/sriharish_r/git/Payroll_v01/"; //Change the Pdf Directory to your location
     private static final String pdfName = "salary_details.pdf";
-    private static final String imagePath = "D:/Payroll_PDF V01/logo.png"; // Change the logo Directory to your location
+    private static final String imagePath = "C:/Users/sriharish_r/git/Payroll_v01/logo.png"; // Change the logo Directory to your location
     
     // Method to generate PDF
     void generatePdf(String data[][], String EmployeeName, String Designation, String Month, String Year, int cheque, String currentDate) {

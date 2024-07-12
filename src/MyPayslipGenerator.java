@@ -223,7 +223,7 @@ public class MyPayslipGenerator {
             multipart.addBodyPart(htmlPart);
 
             // Define the file path of the PDF document to attach to the email
-            String pdfFilePath = "D:/Payroll_PDF/hello.pdf";
+            String pdfFilePath = "C:/Users/sriharish_r/git/Payroll_v01/salary_details.pdf";
 
             // Create a BodyPart for the PDF attachment
             BodyPart pdfPart = new MimeBodyPart();
